@@ -2,6 +2,9 @@
 
 ## Target Sales vs Actual Sales KPI provides a Powerful tool for Monitoring and Improving sales performance across multiple dimensions, including time periods, product categories, and regions. By tracking actual sales revenue against sales targets and analyzing performance by various parameters, managers can identify trends, opportunities, and potential solutions to improve sales performance and achieve their goals.
 
+#### Here the Link of E-Commerce Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiMmVhMThkZmItMTA3NC00MzI2LWJkNDQtODUwZjNiNmNjM2MzIiwidCI6Ijg2YTFhNGZiLTE1ODgtNDVkNC04ZjY0LTBiNDE3NGYyZTI1ZSJ9
+
 # Data-set
  1. **Actual Sales** - 'Date', 'Product Id', 'Country', 'Product Category', 'Cost Price''Sale Price', 'Quantity', 'Cost Price Value',
                       'Sales Price Value', 'Discount %', 'Final Sales Price', 'Profit'
