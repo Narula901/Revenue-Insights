@@ -1,2 +1,3 @@
-# Revenue-Insights
-Target vs Actual Sales Analysis using Power BI
+# Introduction 
+
+## The provided dashboard overlooks various facets of an e-commerce business, offering insights crucial for strategic decision-making. It comprises several key analyses
