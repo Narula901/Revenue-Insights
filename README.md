@@ -7,11 +7,14 @@
                   'Sales Price Value''Discount %', 'Final Sales Price', 'Profit'
         
 
-3. Calendar - 'Date', 'Year', 'Month No', 'Month'
+2. Calendar - 'Date', 'Year', 'Month No', 'Month'
    
-4. Product Details - 'Product Id', 'Product Name', 'Product Category', 'Cost Price', 'Sale Price'
+3. Product Details - 'Product Id', 'Product Name', 'Product Category', 'Cost Price', 'Sale Price'
 
-5. Target Sales - 'Date', 'Product Id', 'Target Sale'
+4. Target Sales - 'Date', 'Product Id', 'Target Sale'
+
+5. Fact_table - 'OrderNumber', 'Sales Channel', 'WarehouseCode', 'OrderDate','ShipDate', 'DeliveryDate', '_SalesTeamID', '_CustomerID', '_StoreID','_ProductID', 
+                 'Order Quantity', 'Discount Applied', 'Unit Price','Unit Cost', 'Order vs shipping interval'
 
 # Relationship Modelling  
 <img width="658" alt="image (2)" src="https://github.com/Narula901/Revenue-Insights/assets/81371310/634fcedc-1158-4891-801e-3387fb74919d">
