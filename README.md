@@ -3,15 +3,15 @@
 ## Target Sales vs Actual Sales KPI provides a Powerful tool for Monitoring and Improving sales performance across multiple dimensions, including time periods, product categories, and regions. By tracking actual sales revenue against sales targets and analyzing performance by various parameters, managers can identify trends, opportunities, and potential solutions to improve sales performance and achieve their goals.
 
 # Data-set
- **Actual Sales** - 'Date', 'Product Id', 'Country', 'Product Category', 'Cost Price''Sale Price', 'Quantity', 'Cost Price Value',
+ 1. **Actual Sales** - 'Date', 'Product Id', 'Country', 'Product Category', 'Cost Price''Sale Price', 'Quantity', 'Cost Price Value',
                       'Sales Price Value''Discount %', 'Final Sales Price', 'Profit'
         
 
-2. Calendar - 'Date', 'Year', 'Month No', 'Month'
+2. **Calendar** - 'Date', 'Year', 'Month No', 'Month'
    
-3. Product Details - 'Product Id', 'Product Name', 'Product Category', 'Cost Price', 'Sale Price'
+3. **Product Details** - 'Product Id', 'Product Name', 'Product Category', 'Cost Price', 'Sale Price'
 
-4. Target Sales - 'Date', 'Product Id', 'Target Sale'
+4. **Target Sales** - 'Date', 'Product Id', 'Target Sale'
 
 
 # Relationship Modelling  
