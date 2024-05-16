@@ -4,7 +4,7 @@
 
 # Data-set
  1. **Actual Sales** - 'Date', 'Product Id', 'Country', 'Product Category', 'Cost Price''Sale Price', 'Quantity', 'Cost Price Value',
-                      'Sales Price Value''Discount %', 'Final Sales Price', 'Profit'
+                      'Sales Price Value', 'Discount %', 'Final Sales Price', 'Profit'
         
 
 2. **Calendar** - 'Date', 'Year', 'Month No', 'Month'
