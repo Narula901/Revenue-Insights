@@ -35,4 +35,11 @@
 
 **Product-level Target Achievement** : Percentage of target sales achieved for each product to evaluate performance at a granular level and adjust strategies accordingly.
 
+# Snapshot 
+<img width="745" alt="image (3)" src="https://github.com/Narula901/Revenue-Insights/assets/81371310/dfc98d2c-938d-4a12-9781-b37012fe95fe">
+
+<img width="745" alt="image (4)" src="https://github.com/Narula901/Revenue-Insights/assets/81371310/cae7eab2-fb94-4441-8555-3f02382edaa3">
+
+
+
    
